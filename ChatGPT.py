@@ -3,7 +3,7 @@ import prompt_toolkit
 import time
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "KEY_HERE"
 
 # Define function to generate response from OpenAI API
 def generate_response(prompt):
